@@ -22,14 +22,14 @@ This project aims to identify process inefficiencies and recommend operational i
 - Support data-driven decision-making
 - Improve service delivery performance
 
-# tools-used
+# Tools-Used
 - Excel
 - Looker Studio
 - Pivot Tables
 - Data Visualization
 - Business Process Analysis
 
-# key-analysis-area
+# Key-Analysis-Area
 - Patient wait time trends
 - Department-wise efficiency analysis
 - Staff/resource utilization
@@ -37,7 +37,7 @@ This project aims to identify process inefficiencies and recommend operational i
 - KPI performance tracking
 - Risk and workflow analysis
 
-# key-insights
+# Key-Insights
 - Patient wait time trends
 - Department-wise efficiency analysis
 - Staff/resource utilization
